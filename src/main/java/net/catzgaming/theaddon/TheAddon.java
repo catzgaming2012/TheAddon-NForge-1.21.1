@@ -1,6 +1,7 @@
 package net.catzgaming.theaddon;
 
 import net.catzgaming.theaddon.block.ModBlocks;
+import net.catzgaming.theaddon.item.ModCreativeModeTabs;
 import net.catzgaming.theaddon.item.ModItems;
 import org.slf4j.Logger;
 
@@ -55,7 +56,10 @@ public class TheAddon {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
-        // Register Modded items
+        // Creative Mode Tabs
+        ModCreativeModeTabs.register(modEventBus);
+
+        // Register modded items, blocks, etc.
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
