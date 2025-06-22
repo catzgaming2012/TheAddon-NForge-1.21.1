@@ -78,6 +78,10 @@ public class TheAddon {
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.STRANGE_BLOCK);
+            event.accept(ModBlocks.STRANGE_ORE);
+        }
+        if(event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
+            event.accept(ModBlocks.STRANGE_ORE);
         }
     }
 

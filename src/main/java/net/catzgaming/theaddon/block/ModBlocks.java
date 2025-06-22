@@ -21,6 +21,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(1f).sound(SoundType.STONE)));
 
+    public static final DeferredBlock<Block> STRANGE_ORE = registerBlock("strange_ore",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(1f).sound(SoundType.STONE)));
+
 
 
 
