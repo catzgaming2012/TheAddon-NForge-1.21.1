@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:smelt",
+  "type": "minecraft:smelting",
   "category": "misc",
   "cookingtime": 200,
   "experience": 0.25,
   "group": "strangeore",
   "ingredient": {
-    "item": "theaddonlol:strange_clump"
+    "item": "theaddonlol:strangeclump"
   },
   "result": {
     "count": 1,
