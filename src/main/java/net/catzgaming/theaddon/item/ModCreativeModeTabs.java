@@ -25,6 +25,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.STRANGECLUMP);
                         output.accept(ModBlocks.STRANGE_BLOCK);
                         output.accept(ModBlocks.STRANGE_ORE);
+                        output.accept(ModItems.OREIFIERWAND);
                     })
                     .build());
 
