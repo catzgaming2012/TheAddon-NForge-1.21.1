@@ -33,6 +33,14 @@ public class ModBlocks {
                             .sound(SoundType.STONE)
             ));
 
+    public static final DeferredBlock<Block> DEEPSLATE_STRANGE_ORE = registerBlock("deepslate_strange_ore",
+            () -> new DropExperienceBlock(UniformInt.of(2, 4),
+                    BlockBehaviour.Properties.of()
+                            .strength(4f)
+                            .requiresCorrectToolForDrops()
+                            .sound(SoundType.DEEPSLATE)
+            ));
+
 
 
 

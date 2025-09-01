@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "O": {
+      "item": "theaddonlol:strangeclump"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "pattern": [
+    "OOO",
+    " A ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theaddonlol:stranged_apple"
+  }
+}

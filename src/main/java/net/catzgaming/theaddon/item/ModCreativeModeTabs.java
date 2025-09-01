@@ -23,8 +23,11 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.STRANGEINGOT);
                         output.accept(ModItems.STRANGECLUMP);
+                        output.accept(ModItems.STRANGED_APPLE);
                         output.accept(ModBlocks.STRANGE_BLOCK);
                         output.accept(ModBlocks.STRANGE_ORE);
+                        output.accept(ModBlocks.DEEPSLATE_STRANGE_ORE);
+                        output.accept(ModItems.STRANGE_COAL);
                         output.accept(ModItems.OREIFIERWAND);
                     })
                     .build());

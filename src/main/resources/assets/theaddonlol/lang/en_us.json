@@ -2,9 +2,16 @@
   "item.theaddonlol.strangeclump": "Strange Clump",
   "item.theaddonlol.strangeingot": "Strange Ingot",
   "item.theaddonlol.oreify_wand": "Oreify-ing Wand",
+  "item.theaddonlol.stranged_apple": "Strange-Coated Apple",
+  "item.theaddonlol.strange_coal": "Strange Coal",
 
   "block.theaddonlol.strange_block": "Strange Block",
   "block.theaddonlol.strange_ore": "Strange Ore",
+  "block.theaddonlol.deepslate_strange_ore": "Deepslate Strange Ore",
 
-  "creativetab.theaddonlol.theadd_itions": "The Add-Itions"
+  "creativetab.theaddonlol.theadd_itions": "The Add-Itions",
+
+  "tooltip.theaddonlol.shift_info": "Hold [Shift] for more details",
+  "tooltip.theaddonlol.stranged_apple": "You probably shouldn't eat this...",
+  "tooltip.theaddonlol.stranged_apple.shift_down": "When Eaten:\n    50% chance to give one of two negative effects\n    50% chance to give one of two positive effects"
 }

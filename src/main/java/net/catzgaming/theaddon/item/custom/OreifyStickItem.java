@@ -20,6 +20,7 @@ public class OreifyStickItem extends Item {
                     ModBlocks.STRANGE_BLOCK.get(), ModBlocks.STRANGE_ORE.get(),
                     Blocks.IRON_BLOCK, Blocks.IRON_ORE,
                     Blocks.DIAMOND_BLOCK, Blocks.DIAMOND_ORE,
+                    Blocks.REDSTONE_BLOCK, Blocks.REDSTONE_ORE,
                     Blocks.REDSTONE_ORE, ModBlocks.STRANGE_ORE.get()
             );
 
