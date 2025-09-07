@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "theaddonlol:strangeingot"
+    },
+    {
+      "item": "theaddonlol:strangeingot"
+    },
+    {
+      "item": "theaddonlol:strangeingot"
+    },
+    {
+      "item": "theaddonlol:strangeingot"
+    },
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "results": [
+    {
+      "id": "theaddonlol:strange_coal",
+      "count": 1
+    }
+  ]
+}

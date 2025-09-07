@@ -1,0 +1,69 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:redstone_dust"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "id": "theaddonlol:strange_clump"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "theaddonlol:incomplete_strangeclump"
+        },
+        [
+          {
+            "item": "minecraft:soul_sand"
+          },
+          {
+            "item": "minecraft:soul_soil"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "theaddonlol:incomplete_strangeclump"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "theaddonlol:incomplete_strangeclump"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 250,
+          "fluid": "minecraft:lava"
+        }
+      ],
+      "results": [
+        {
+          "id": "theaddonlol:incomplete_strangeclump"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "theaddonlol:incomplete_strangeclump"
+        }
+      ],
+      "results": [
+        {
+          "id": "theaddonlol:incomplete_strangeclump"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "theaddonlol:incomplete_strangeclump"
+  }
+}

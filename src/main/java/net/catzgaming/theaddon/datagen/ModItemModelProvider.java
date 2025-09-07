@@ -17,6 +17,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.STRANGEINGOT.get());
         basicItem(ModItems.STRANGED_APPLE.get());
         basicItem(ModItems.STRANGE_COAL.get());
+        basicItem(ModItems.INCOMPLETE_STRANGECLUMP.get());
         basicItem(ModItems.OREIFIERWAND.get());
     }
 }

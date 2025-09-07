@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "theaddonlol:strangeingot"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#C#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "theaddonlol:strange_coal"
+  }
+}

@@ -4,6 +4,7 @@
   "item.theaddonlol.oreify_wand": "Oreify-ing Wand",
   "item.theaddonlol.stranged_apple": "Strange-Coated Apple",
   "item.theaddonlol.strange_coal": "Strange Coal",
+  "item.theaddonlol.incomplete_strangeclump": "Unfinished Strange Clump",
 
   "block.theaddonlol.strange_block": "Strange Block",
   "block.theaddonlol.strange_ore": "Strange Ore",
@@ -11,7 +12,10 @@
 
   "creativetab.theaddonlol.theadd_itions": "The Add-Itions",
 
-  "tooltip.theaddonlol.shift_info": "Hold [Shift] for more details",
+  "tooltip.theaddonlol.shift_info": "§7Hold [§fShift§7] for summary",
+  "tooltip.theaddonlol.sequenced_assembly_item_1": "§7Dude, why aren't you completing the recipe?",
+  "tooltip.theaddonlol.sequenced_assembly_item_2": "§7Don't be lazy, just do it!",
+  "tooltip.theaddonlol.sequenced_assembly_item_3": "§7The next step is §cright down there!§7 ↓↓↓",
   "tooltip.theaddonlol.stranged_apple": "You probably shouldn't eat this...",
-  "tooltip.theaddonlol.stranged_apple.shift_down": "When Eaten:\n    50% chance to give one of two negative effects\n    50% chance to give one of two positive effects"
+  "tooltip.theaddonlol.stranged_apple.shift_down": "§7When Eaten:\n  50% chance to give one of two §cnegative§7 effects\n  50% chance to give one of two positive effects"
 }
