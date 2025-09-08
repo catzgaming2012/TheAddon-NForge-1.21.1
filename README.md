@@ -10,3 +10,7 @@ The current jar of the mod is over on the releases tab.
 You can also clone the repo and build it yourself for any of the commits i may _**create**_
 
 *-from far away-* GET IT? CREATE MOD? **_CREATE?_** THIS IS **"," "D"**
+
+wait, who the hell is that? oh sh*t.
+
+*catzgaming1 was struck by lightning whilst fighting Zeus*

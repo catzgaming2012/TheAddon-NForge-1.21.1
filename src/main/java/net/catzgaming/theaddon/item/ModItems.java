@@ -19,7 +19,7 @@ import java.util.List;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(TheAddon.MODID);
 
-    public static final DeferredItem<Item> INCOMPLETE_STRANGECLUMP = ITEMS.register("incomplete_strangeclump",
+    public static final DeferredItem<SequencedAssemblyItem> INCOMPLETE_STRANGECLUMP = ITEMS.register("incomplete_strangeclump",
             () -> new SequencedAssemblyItem(new Item.Properties()) {
                 @Override
                 public void appendHoverText(ItemStack stack, Item.TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {

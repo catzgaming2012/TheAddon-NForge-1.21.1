@@ -1,12 +1,12 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "minecraft:redstone_dust"
+    "item": "minecraft:redstone"
   },
   "loops": 4,
   "results": [
     {
-      "id": "theaddonlol:strange_clump"
+      "id": "theaddonlol:strangeclump"
     }
   ],
   "sequence": [
